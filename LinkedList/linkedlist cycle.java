@@ -1,9 +1,7 @@
-
-public class Solution {
-    public boolean hasCycle(ListNode head) {
 // TC O(n) 
 // SC O(1)
-
+public class Solution {
+public boolean hasCycle(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;
         while(fast!=null && fast.next!=null){
