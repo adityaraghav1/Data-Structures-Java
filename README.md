@@ -1,2 +1,2 @@
 # Data-Structures-Mastery
-"A code repo for Data Structures &amp; Algorithms problems solved in Java"
+"A Java repository documenting my journey of progressing in Data Structures &amp; Algorithms, through a pattern-based approach"
