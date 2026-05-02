@@ -1,5 +1,5 @@
-// Time Complexity:O(n)
-// Space Complexity:O(1)
+// TC O(n)
+// SC O(1)
 class Solution {
     public int maxSubarraySumCircular(int[] nums) {
         int best = nums[0]; 
